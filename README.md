@@ -43,10 +43,10 @@ add action=drop chain=prerouting src-address-list=adblocker comment="AdGuardHome
 ## Add a scheduler to keep the lists up to date
 
 ```sh
-/system scheduler add comment="AdGuardHome" interval=1d name="StalkerwareListUpdate" on-event=downloadAdGuardHomeStalkerwareList start-date=jan/01/1970 start-time=01:00:00
+/system scheduler add comment="AdGuardHome" interval=1d name="StalkerwareListUpdate" on-event=downloadAdGuardHomeStalkerwareList start-date=Mar/22/2024 start-time=01:00:00
 ```
 and
 
 ```sh
-/system scheduler add comment="AdGuardHome" interval=1d name="ADblockerListUpdate" on-event=downloadAdGuardHomeADblockerList start-date=jan/01/1970 start-time=01:05:00
+/system scheduler add comment="AdGuardHome" interval=1d name="ADblockerListUpdate" on-event=downloadAdGuardHomeADblockerList start-date=Mar/22/2024 start-time=01:05:00
 ```
