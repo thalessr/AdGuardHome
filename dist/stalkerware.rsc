@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2024-03-24 00:07:11
+# Last Update     : 2024-03-25 00:06:37
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -18,6 +18,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=a-qa3.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=a-spy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=a.hw.cab
 add list=stalkerware comment=AdGuardHome-Stalkerware address=a.hwa.cab
+add list=stalkerware comment=AdGuardHome-Stalkerware address=a.syncvch.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=a.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=a342f.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=a71f4.firebaseio.com
@@ -577,6 +578,11 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a935.thetr
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a940.thetruthspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a941.thetruthspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a942.thetruthspy.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a943.thetruthspy.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a944.thetruthspy.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a945.thetruthspy.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a946.thetruthspy.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a947.thetruthspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-monitor.thetruthspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-viewer-a.copy9.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol.copy9.com
