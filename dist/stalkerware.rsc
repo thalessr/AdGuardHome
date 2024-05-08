@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2024-05-07 00:06:14
+# Last Update     : 2024-05-08 00:05:47
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -831,6 +831,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=webwatchernow.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=wethnc067.xyz
 add list=stalkerware comment=AdGuardHome-Stalkerware address=where-is-my-children.firebase.io
 add list=stalkerware comment=AdGuardHome-Stalkerware address=wmdcommander.appspot.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=wppspy.tech
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ws.ttspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=wss.findmykids.org
 add list=stalkerware comment=AdGuardHome-Stalkerware address=www.android-monitor.ru
