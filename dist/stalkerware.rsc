@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2024-05-16 00:06:58
+# Last Update     : 2024-05-17 00:06:36
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -147,6 +147,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=birxpk.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=bk128.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=blurspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=brilliant-flame-585.firebaseio.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=brunoespiao.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=brunoespiao.com.br
 add list=stalkerware comment=AdGuardHome-Stalkerware address=c-phone.ru
 add list=stalkerware comment=AdGuardHome-Stalkerware address=c.appjiagu.com
