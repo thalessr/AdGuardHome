@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2024-06-01 00:07:02
+# Last Update     : 2024-06-02 00:07:08
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -137,6 +137,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=b55y.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=back.brunoespiao.com.br
 add list=stalkerware comment=AdGuardHome-Stalkerware address=backup-a71f4.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=bark-android-media.s3.amazonaws.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=bbrp.co
 add list=stalkerware comment=AdGuardHome-Stalkerware address=best-spy-apps.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=beta-api.logger.mobi
 add list=stalkerware comment=AdGuardHome-Stalkerware address=beta.logger.mobi
@@ -297,6 +298,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=i7.clientreport.inf
 add list=stalkerware comment=AdGuardHome-Stalkerware address=i8.clientreport.info
 add list=stalkerware comment=AdGuardHome-Stalkerware address=i9.clientreport.info
 add list=stalkerware comment=AdGuardHome-Stalkerware address=icloudappe.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=idevs.co
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ikeymonitor.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ikeymonitor.fr
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ikm.awsapi.io
@@ -392,6 +394,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=mg-spyzie.oss-us-we
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mi.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=microtracker-1ca43.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mintrack.vip
+add list=stalkerware comment=AdGuardHome-Stalkerware address=mlite-app.livekit.cloud
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mlite-app.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mlite-socket.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mliteapp.alter757.info
@@ -412,6 +415,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=msafe.xyz
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mspy.alter757.info
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mspyonline.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mspytrackercom.alter757.info
+add list=stalkerware comment=AdGuardHome-Stalkerware address=mtechn.zendesk.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mtf.re
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mtoolapp.biz
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mtoolapp.net
@@ -423,12 +427,15 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=my.aispyer.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.copy9.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.ispyoo.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.jjspy.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=my.kidsecured.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.mobiletool.ru
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.mobispy.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.mrec24.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.mspyonline.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.mtoolapp.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.nexspy.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=my.phonsee.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=my.securechildren.online
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.snoopza.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.spylix.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.spyzie.com
@@ -621,6 +628,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=remotesecurity-629f
 add list=stalkerware comment=AdGuardHome-Stalkerware address=remotesecurityots.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=repo.mspyonline.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=reptilicus.net
+add list=stalkerware comment=AdGuardHome-Stalkerware address=rockalab.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=rp.apollospy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=rp.dedrone.com.ua
 add list=stalkerware comment=AdGuardHome-Stalkerware address=rp.labrador.ua
@@ -655,6 +663,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=sentry-04.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sentry-05.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sentry-06.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sentry-07.thd.cc
+add list=stalkerware comment=AdGuardHome-Stalkerware address=sentry-product-new.bbrp.co
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sentrypc.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=server.androidmonitor.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=server.freeandroidspy.com
@@ -846,6 +855,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=vys.me
 add list=stalkerware comment=AdGuardHome-Stalkerware address=waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=waws-prod-blu-247.sip.azurewebsites.windows.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=web.chyldmonitor.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=webrtc.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=webservicesdb.mobiispy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=webwatcher-child-app.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=webwatcherdata.com
