@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2024-09-20 00:07:29
+# Last Update     : 2024-09-21 00:07:24
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -517,6 +517,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a.ispyoo.c
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a.mxspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a.thetruthspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a100.fonetracker.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a100.phoneparental.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a100.thetruthspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a5.guestspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=protocol-a58.guestspy.com
@@ -742,6 +743,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=staging-all-tracker
 add list=stalkerware comment=AdGuardHome-Stalkerware address=staging.smstracker.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=studio11-7e288.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=support.mtoolapp.biz
+add list=stalkerware comment=AdGuardHome-Stalkerware address=support.phoneparental.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sync-a.copy9.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sync-a.exactspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sync-a.fonetracker.com
