@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2024-10-18 00:07:38
+# Last Update     : 2024-10-19 00:07:36
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
