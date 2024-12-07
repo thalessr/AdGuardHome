@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2024-12-06 00:08:42
+# Last Update     : 2024-12-07 00:08:09
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -629,6 +629,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=relay1.trackview.ne
 add list=stalkerware comment=AdGuardHome-Stalkerware address=remotecommands.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=remotesecurity-629f2.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=remotesecurityots.firebaseio.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=remoto.foxspy.com.br
 add list=stalkerware comment=AdGuardHome-Stalkerware address=repo.mspyonline.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=reptilicus.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=rockalab.com
