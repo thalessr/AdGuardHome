@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2025-04-03 00:08:18
+# Last Update     : 2025-04-04 00:08:24
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -848,6 +848,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=user.trackview.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=user2.trackview.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=users.awosoft.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=users.easemon.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=users.thephonem.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=video-recorder-c0419.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=viewer.snoopza.com
