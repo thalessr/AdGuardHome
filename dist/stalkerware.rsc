@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2025-04-10 00:08:25
+# Last Update     : 2025-04-11 00:08:25
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -403,6 +403,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=mliteapp.alter757.i
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mob.eurotrans.kz
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mobi22.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mobiispy.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=mobil-kem.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mobile-gw.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mobile-tracker-data.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mobile-tracker-free.com
@@ -875,6 +876,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=wss.findmykids.org
 add list=stalkerware comment=AdGuardHome-Stalkerware address=www.android-monitor.ru
 add list=stalkerware comment=AdGuardHome-Stalkerware address=www.androidlost.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=www.apk7.biz
+add list=stalkerware comment=AdGuardHome-Stalkerware address=www.app-spy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=www.bark.us
 add list=stalkerware comment=AdGuardHome-Stalkerware address=www.brunoespiao.com.br
 add list=stalkerware comment=AdGuardHome-Stalkerware address=www.cellmonitoring.co
