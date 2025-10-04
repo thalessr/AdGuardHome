@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2025-10-03 00:08:00
+# Last Update     : 2025-10-04 00:08:00
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -314,6 +314,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=imonitorsoft.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=info-taxi.info
 add list=stalkerware comment=AdGuardHome-Stalkerware address=inv.logger.mobi
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ioi.life
+add list=stalkerware comment=AdGuardHome-Stalkerware address=ios-gw.spynger.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ixhtb.s9gxw8.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=izapk.xyz
 add list=stalkerware comment=AdGuardHome-Stalkerware address=izspy-1313.firebaseio.com
@@ -441,6 +442,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=my.phonsee.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.securechildren.online
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.snoopza.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.spylix.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=my.spynger.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.spyzie.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.thespyapp.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=my.thetruthspy.com
