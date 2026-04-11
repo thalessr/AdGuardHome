@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2026-04-10 00:17:15
+# Last Update     : 2026-04-11 00:16:23
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -243,6 +243,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=einformatiks.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=elcore-api.azurewebsites.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=em.awsapi.io
 add list=stalkerware comment=AdGuardHome-Stalkerware address=emcpanel.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=enterprise.cerberusapp.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=evt17.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=eyezyapp.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=f.appjiagu.com
