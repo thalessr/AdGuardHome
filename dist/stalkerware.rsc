@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2026-06-21 00:36:42
+# Last Update     : 2026-06-22 00:36:32
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -402,6 +402,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=mlite-app.livekit.c
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mlite-app.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mlite-socket.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mliteapp.alter757.info
+add list=stalkerware comment=AdGuardHome-Stalkerware address=mob-app-gw.spynger.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mob.eurotrans.kz
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mobi22.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=mobiispy.com
@@ -747,6 +748,9 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=spyzie.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sse.chyldmonitor.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=staging-all-tracker.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=staging.smstracker.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=strapi.msafely.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=strapi.spyphone.cc
+add list=stalkerware comment=AdGuardHome-Stalkerware address=strapi.spyx.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=studio11-7e288.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=support.mtoolapp.biz
 add list=stalkerware comment=AdGuardHome-Stalkerware address=support.phoneparental.com
@@ -810,6 +814,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=ttjj.tk
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ttspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ttspy.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ttspy.top
+add list=stalkerware comment=AdGuardHome-Stalkerware address=tun-cos-1258344701.file.myqcloud.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=u1.panspy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ua.brunoespiao.com.br
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ua.evaspy.com
