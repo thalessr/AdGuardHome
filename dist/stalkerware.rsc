@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2026-10-03 03:04:15
+# Last Update     : 2026-10-04 03:32:46
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -190,6 +190,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=copy9.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=copy9db.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=corn-cob.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=cp.mspyonline.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=cp.spystealth.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=cp.thewispy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=cpcalendars.spymasterpro.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=cpcontacts.spymasterpro.com
@@ -746,6 +747,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=spyzee.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=spyzie-a.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=spyzie.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=sse.chyldmonitor.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=stage.spystealth.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=staging-all-tracker.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=staging.smstracker.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=strapi.msafely.com
@@ -808,6 +810,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=trackview.net
 add list=stalkerware comment=AdGuardHome-Stalkerware address=trkps.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=true-truck-86810.firebaseio.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=truewebmedia.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=tt.spystealth.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ttjj.ga
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ttjj.ml
 add list=stalkerware comment=AdGuardHome-Stalkerware address=ttjj.tk
