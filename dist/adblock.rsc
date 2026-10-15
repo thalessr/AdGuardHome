@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2026-10-14 02:51:33
+# Last Update     : 2026-10-15 02:30:37
 /ip firewall address-list 
 add list=adblocker comment=AdGuardHome-ADblocker address=doubleclick.net
 add list=adblocker comment=AdGuardHome-ADblocker address=logs.netflix.com
