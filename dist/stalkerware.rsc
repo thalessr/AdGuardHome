@@ -1,5 +1,5 @@
 # ============================================================
-# Last Update     : 2026-10-20 02:45:28
+# Last Update     : 2026-10-21 02:39:29
 /ip firewall address-list 
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.appspot.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=12d60.firebaseio.com
@@ -83,6 +83,7 @@ add list=stalkerware comment=AdGuardHome-Stalkerware address=api.ogymogy.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=api.seniorsafetyapp.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=api.snoopza.com
 add list=stalkerware comment=AdGuardHome-Stalkerware address=api.spylix.com
+add list=stalkerware comment=AdGuardHome-Stalkerware address=api.stalkerware.app
 add list=stalkerware comment=AdGuardHome-Stalkerware address=api.thd.cc
 add list=stalkerware comment=AdGuardHome-Stalkerware address=api.trackview.lifecircle.app
 add list=stalkerware comment=AdGuardHome-Stalkerware address=api.ttspy.com
